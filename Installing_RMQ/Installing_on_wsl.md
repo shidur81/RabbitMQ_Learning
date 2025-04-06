@@ -79,5 +79,3 @@ If it's running, you should see output similar to:
 Active: active (running)
 ```
 ```
-
-Let me know if you want this adapted for a different format like AsciiDoc or LaTeX!
