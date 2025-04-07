@@ -3,7 +3,7 @@
 
 ## Step 1: Get the IP address of the WSL instance
 
-> **Note**: WSL2 dynamically assigns a new IP address every time it restarts.
+> **Note**: WSL2 dynamically assigns a new IP address every time it restarts. If we need a fixed IP, we might need to set up port forwarding from Windows to WSL2. 
 
 **Command:**
 ```bash
